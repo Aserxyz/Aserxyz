@@ -1,45 +1,99 @@
-<h1 align="center"><b>Hi , I'm Aserxyz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Banner principal -->
+<p align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="400">
+</p>
+
+<h1 align="center"><b>Hi , I'm Aserxyz </b>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Welcome+to+my+GitHub!;Developer+at+HCF+Team;Battle+Project+Developer;Dominican+%2F+USA;Always+learning+new+things+%3C3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00eaff&size=27&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub!;Developer+at+HCF+Team;Battle+Project+Developer;Dominican+%2F+USA;Future+FullStack+Developer;Always+Learning++%3C3">
   </a>
 </p>
 
-<br>
+---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <img src="https://i.imgur.com/Z8ZpLQq.gif" width="40"> **About Me**
 
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+  <img align="right" src="https://i.imgur.com/HhI1VfN.gif" width="240">
 </picture>
-
-<br>
 
 - 🔥 Developer en crecimiento  
 - 🧩 Member of **HCF Team**  
 - ⚔️ Actualmente trabajando en **Battle**  
-- 🇩🇴/🇺🇸 Dominicano - USA  
-- 🎂 Nací el **7 de octubre de 2009 (16 años)**  
-- 📚 Siempre aprendiendo desarrollo y sistemas  
-- 🤝 Abierto a colaborar en proyectos interesantes  
-- 🌐 Próximamente: website personal
+- 🌎 Dominicano / USA  
+- 🎂 **7 de octubre de 2009 (16 años)**  
+- 🧠 Self-taught — aprendiendo backend & sistemas  
+- 🤝 Abierto a colaboraciones  
+- 🚀 Sueño: ser desarrollador fullstack  
+- 🌐 Coming soon: website personal
 
-<br><br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
+---
+
+# 🔗 **Botones / Enlaces**
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+# 🛠️ **Skills & Tech**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/Battle%20Dev-05122A?style=flat" />
-  <img src="https://img.shields.io/badge/HCF%20Team-05122A?style=flat" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,mysql,github,vscode,git" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HCF%20Team-000?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Battle%20Developer-000?style=for-the-badge&logo=sword" />
+</p>
+
+---
+
+# ⚡ **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aserxyz&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aserxyz&theme=tokyonight" height="150">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aserxyz&layout=compact&theme=tokyonight" height="150">
+</p>
+
+---
+
+# 🎨 **Decoración Extra**
+
+<p align="center">
+  <img src="https://i.imgur.com/hpFQZMa.gif" width="600">
+</p>
+
+---
+
+# 🧠 **Fun Facts**
+- Me gusta trabajar en proyectos grandes  
+- Siempre estoy creando algo nuevo  
+- Me encanta aprender de forma autodidacta  
+- Soy rápido entendiendo sistemas  
+
+---
+
+# ❤️ **Thanks for visiting my profile**
+<p align="center">
+  <img src="https://i.imgur.com/hOaTQBw.gif" width="300">
+</p>
+
 
 ---
 
