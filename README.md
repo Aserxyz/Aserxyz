@@ -27,10 +27,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/j5hjjlYv0hE5S/giphy.gif">
-
----
-
 # 🔗 **Botones / Enlaces**
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
