@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="400">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="400">
 </p>
 
 <h1 align="center"><b>Hi , I'm Aserxyz </b>
@@ -15,10 +15,10 @@
 
 ---
 
-## <img src="https://i.imgur.com/Z8ZpLQq.gif" width="40"> **About Me**
+## <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="40"> **About Me**
 
 <picture>
-  <img align="right" src="https://i.imgur.com/HhI1VfN.gif" width="240">
+  <img align="right" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="240">
 </picture>
 
 - 🔥 Developer en crecimiento  
@@ -29,11 +29,11 @@
 - 🧠 Self-taught — aprendiendo backend & sistemas  
 - 🤝 Abierto a colaboraciones  
 - 🚀 Sueño: ser desarrollador fullstack  
-- 🌐 Coming soon: website personal
+- 🌐 Coming soon: website personal  
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/j5hjjlYv0hE5S/giphy.gif">
 
 ---
 
@@ -48,7 +48,6 @@
 ---
 
 # 🛠️ **Skills & Tech**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,mysql,github,vscode,git" />
 </p>
@@ -61,7 +60,6 @@
 ---
 
 # ⚡ **GitHub Stats**
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aserxyz&show_icons=true&theme=tokyonight" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aserxyz&theme=tokyonight" height="150">
@@ -74,9 +72,8 @@
 ---
 
 # 🎨 **Decoración Extra**
-
 <p align="center">
-  <img src="https://i.imgur.com/hpFQZMa.gif" width="600">
+  <img src="https://media.giphy.com/media/3o85xkGfCu6x21B2vu/giphy.gif" width="600">
 </p>
 
 ---
@@ -91,9 +88,6 @@
 
 # ❤️ **Thanks for visiting my profile**
 <p align="center">
-  <img src="https://i.imgur.com/hOaTQBw.gif" width="300">
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="300">
 </p>
-
-
----
 
