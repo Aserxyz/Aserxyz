@@ -17,14 +17,13 @@
 </picture>
 
 - 🔥 Developer en crecimiento  
-- 🧩 Member of **HCF Team**  
-- ⚔️ Actualmente trabajando en **Battle**  
-- 🌎 Dominicano / USA  
+- 🧩 Member of **KhaoticLLC**  
+- ⚔️ Actualmente trabajando en **Battle Games**  
+- 🌎 Dominicano / Americano
 - 🎂 **7 de octubre de 2009 (16 años)**  
-- 🧠 Self-taught — aprendiendo backend & sistemas  
 - 🤝 Abierto a colaboraciones  
 - 🚀 Sueño: ser desarrollador fullstack  
-- 🌐 Coming soon: website personal  
+- 🌐 Coming soon: ..... 
 
 ---
 
@@ -55,9 +54,7 @@
 ---
 
 # 🧠 **Fun Facts**
-- Me gusta trabajar en proyectos grandes  
 - Siempre estoy creando algo nuevo  
-- Me encanta aprender de forma autodidacta  
 - Soy rápido entendiendo sistemas  
 
 ---
