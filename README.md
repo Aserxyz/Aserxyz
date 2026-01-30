@@ -1,8 +1,3 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="400">
-</p>
-
 <h1 align="center"><b>Hi , I'm Aserxyz </b>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -47,18 +42,6 @@
 
 ---
 
-# 🛠️ **Skills & Tech**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,mysql,github,vscode,git" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HCF%20Team-000?style=for-the-badge&logo=code" />
-  <img src="https://img.shields.io/badge/Battle%20Developer-000?style=for-the-badge&logo=sword" />
-</p>
-
----
-
 # ⚡ **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aserxyz&show_icons=true&theme=tokyonight" height="150">
@@ -67,13 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aserxyz&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
-# 🎨 **Decoración Extra**
-<p align="center">
-  <img src="https://media.giphy.com/media/3o85xkGfCu6x21B2vu/giphy.gif" width="600">
 </p>
 
 ---
@@ -90,4 +66,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="300">
 </p>
-
