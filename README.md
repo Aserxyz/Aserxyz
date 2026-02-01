@@ -57,6 +57,6 @@
 
 # ❤️ **Thanks for visiting my profile**
 <p align="center">
-  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="300">
+  <img src="https://tenor.com/search/anime-blue-hair-gifs" width="300">
 </p>
 
