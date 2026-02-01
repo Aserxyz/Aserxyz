@@ -55,9 +55,10 @@
 
 ---
 
-# ❤️ **Thanks for visiting my profile**
+# ❤️ Thanks for visiting my profile
 <p align="center">
-  <img src="https://media.tenor.com/F4nSWXSPoS4AAAAC/anime-blue-eyes.gif" width="300">
+  <img src="https://i.pinimg.com/originals/1d/7d/c2/1d7dc20d0dbbb5cc6e97913e0c857cfc.gif" width="300">
 </p>
+
 
 
