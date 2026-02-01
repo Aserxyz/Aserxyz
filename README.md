@@ -57,6 +57,7 @@
 
 # ❤️ **Thanks for visiting my profile**
 <p align="center">
-  <img src="https://media.tenor.com/vN1rQKxuxOIAAAAC/anime-boy.gif" width="300">
+  <img src="https://media.tenor.com/F4nSWXSPoS4AAAAC/anime-blue-eyes.gif" width="300">
 </p>
+
 
